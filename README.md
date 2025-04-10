@@ -21,7 +21,7 @@ The **Bohudur WooCommerce Payment Plugin** integrates secure and flexible paymen
 ---
 
 ## Download Plugin
-You can download Bohudur Woocommerce Payment Plugin by [clicking here](#https://github.com/BohudurOne/Woocommerce/raw/refs/heads/main/bohudur.zip)
+You can download Bohudur Woocommerce Payment Plugin by [clicking here](https://github.com/BohudurOne/Woocommerce/raw/refs/heads/main/bohudur.zip)
 
 ## ⚙️ How It Works
 
