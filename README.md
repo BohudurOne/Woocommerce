@@ -1,4 +1,4 @@
-# Bohudur WooCommerce Payment Plugin
+# Bohudur WooCommerce Plugin
 
 The **Bohudur WooCommerce Payment Plugin** integrates secure and flexible payment options into your WooCommerce store, offering a smooth checkout experience for your customers.
 
